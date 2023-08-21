@@ -1,0 +1,1 @@
+O principal erro da tipagem dinâmica são os erros de runtime, isto é, erros de tempo de execução, os quais podem levar a comportamentos inesperados, crashes e interrupções no funcionamento adequado do programa.

@@ -1,0 +1,1 @@
+A tipagem dinâmica é aquela em que o tipo de determinado dado pode ser alterado conforme a necessidade do programador, sendo que ele não é predeterminado no momento que a variável é declarada. Já a tipagem estática não permite essa alteração de tipo ao longo do código, sendo que o tipo é definido no momento de declaração da variável.

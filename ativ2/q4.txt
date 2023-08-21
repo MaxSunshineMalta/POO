@@ -1,0 +1,15 @@
+A linguagem C é comumente considerada fraca, pois apesar de possuir tipagem estática, ela permite a conversão implícita de valores para tipo pré-definidos, como no caso a seguir em que ocasiona a mudança do valor do dado.
+
+#include <stdio.h>
+
+int main() {
+    int num_int = 5;
+    float num_float = 2.5;
+
+    // Conversão implícita de float para int
+    num_int = num_float;
+
+    printf("num_int: %d\n", num_int);  // Saída: num_int: 2
+
+    return 0;
+}

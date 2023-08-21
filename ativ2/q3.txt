@@ -1,0 +1,11 @@
+def realizar_operacao(a, b):
+    resultado = a + b
+    return resultado
+
+resultado = realizar_operacao(5, 7)
+print(resultado)  # Saída: 12
+
+resultado = realizar_operacao("5", "7")
+print(resultado)  # Saída: 57 (concatenação de strings)
+
+Esse código, exemplifica um erro comum de tipagem dinâmica, em que, dada a ausência de uma confirmação se os dados são de um mesmo tipo, invés de realizar a soma ele realiza a concatenação dos valores.

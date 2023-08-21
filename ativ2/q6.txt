@@ -1,0 +1,1 @@
+Não, uma vez que mesmo que ele não faça uma verificação entre essas duas classificações de números, ele ainda mantém uma análise rígida acerca se os tipos que estão se relacionando são os mesmos, isto é, ele mantém a verificação rigorosa de tipos mesmo dentro de um tipo numérico genérico, classificando-se como uma linguagem de tipagem forte.

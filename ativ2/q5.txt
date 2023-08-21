@@ -1,0 +1,9 @@
+function printValue(value: any) {
+    console.log(value);
+}
+
+printValue(42);        // Imprime: 42
+printValue("Hello");   // Imprime: Hello
+printValue(true);      // Imprime: true
+
+Nesse exemplo, o fator da variável ser tipo Any é benéfico, uma vez que possibilita que a função mostre o valor independente do seu tipo.
