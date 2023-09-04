@@ -1,0 +1,1 @@
+Não haverá problema de compilação, uma vez que algumas linguagens automaticamente inicializam variáveis com valor undefined por padrão. Entretanto, isso significa que caso acessessemos a variável sem antes atribuir um valor a ela, ela estará com undefined.
